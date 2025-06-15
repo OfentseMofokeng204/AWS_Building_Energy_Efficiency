@@ -33,8 +33,3 @@ This project demonstrates a simple machine learning model used to predict the **
 - Evaluate model performance using R² Score
 - Visualize model predictions
 
-## 🏁 Getting Started
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/building-energy-efficiency.git
